@@ -1,2 +1,2 @@
 # adventofcode
-[Advent of Code](http://adventofcode.com/) exercises
+[Advent of Code](http://adventofcode.com/) exercises.
